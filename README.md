@@ -6,7 +6,7 @@
 
 ## 📸 截图
 
-| 浅色主题 | 神色主题 |
+| 浅色主题 | 深色主题 |
 |---------|--------|
 | ![浅色](docs/screenshot-light.png) | ![游戏](docs/screenshot-game.png) |
 
