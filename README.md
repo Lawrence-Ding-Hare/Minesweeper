@@ -6,11 +6,11 @@
 
 ## 📸 截图
 
-| 浅色主题 | 游戏中 |
+| 浅色主题 | 神色主题 |
 |---------|--------|
 | ![浅色](docs/screenshot-light.png) | ![游戏](docs/screenshot-game.png) |
 
-| 深色主题 | 自定义难度 |
+| 自定义难度 | 快捷键位 |
 |---------|-----------|
 | ![深色](docs/screenshot-dark.png) | ![自定义](docs/screenshot-custom.png) |
 
