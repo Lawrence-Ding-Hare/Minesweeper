@@ -1,0 +1,22 @@
+# 构建产物
+bin/
+obj/
+artifacts/
+*.user
+
+# 签名证书（私钥，切勿提交）
+*.pfx
+
+# 绿色版/安装包（由脚本生成）
+Desktop/
+MinesweeperSetup/
+MinesweeperPortable/
+
+# IDE
+.vs/
+.idea/
+*.suo
+
+# 日志
+*.log
+pkg_out/

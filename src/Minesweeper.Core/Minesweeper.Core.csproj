@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- 测试程序集可访问 internal 成员（局面注入构造） -->
+    <InternalsVisibleTo Include="Minesweeper.Core.Tests" />
+  </ItemGroup>
+
+</Project>
