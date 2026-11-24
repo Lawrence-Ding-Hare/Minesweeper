@@ -89,14 +89,11 @@ MSBuild src/Minesweeper/Minesweeper.csproj /p:Configuration=Release /p:Platform=
 
 ## 📝 许可证
 
-[LICENSE](LICENSE)：**MIT License + 附加条款**
+Copyright © 2026 Lawrence
 
-**附加条款**：
-1. **商业使用必须开源**：任何商业用途（销售、集成到商业产品或服务等）须将修改后的与本软件有关部分的完整源码开源。
-    **Mandatory Open-Sourcing for Commercial Use**：All commercial use (sales, integration into commercial products/services, etc.) requires full open-source disclosure of the complete source code for all project-related modifications.
+本仓库当前版本中由项目作者有权授权的源代码及项目文档采用 **GNU GPL v3.0（GPL-3.0-only）**。分发受 GPL 覆盖的程序或修改版时，须按 GPL 向接收者提供对应源码。第三方依赖、运行库及其附带材料适用各自的许可证。 [GPL v3 正文](LICENSE)
 
-2. **功能免费**：本软件及其所有相关功能不得在被引用的软件中就涉及本软件的部分向最终用户收费。
-    **Free Functionality Requirement**： After referencing this software and its related functionalities, you may not charge end users for any parts related to this software.
+此前已发布版本、历史安装包和其中的第三方材料，按其发布时适用的条款继续使用。换证前最后一次提交为 `aa6cae79d728`。 [旧版许可及附加条款](LICENSE-LEGACY)
 
 ## 🛠️ 技术栈
 
